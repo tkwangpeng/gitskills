@@ -1,3 +1,2 @@
 # gitskills
-bb
-cc
+this is maste
